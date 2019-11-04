@@ -6,7 +6,7 @@ Just an algorithm and data structure playground for Rust
 
 1. Make sure you have, Cargo.
 2. Run `cargo run` on your root project path.
-3. Run `cargo build` to build the an optimized project one.
+3. Run `cargo build` to build the optimized project one.
 
 
 ## Algorithm & Data Structure:
